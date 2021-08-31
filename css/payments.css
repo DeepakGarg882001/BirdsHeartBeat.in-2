@@ -1,0 +1,49 @@
+.q1{
+
+	width:97vw ;
+	height:13vh ;
+	 background: #0000cd;
+	
+	 font-size: 1.5em;
+	 border-collapse: collapse;
+	 position: sticky;
+}
+
+
+
+
+.q1-1{
+float: left;
+width:20vw ;
+height:13vh ;
+margin: auto;
+color: white;
+}
+
+.q1-2{
+	/*padding:2vh;*/
+	width:65vw ;
+height:13vh ;
+}
+
+
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+ /* width: 100%;*/
+  border: 1px solid #ddd;
+  color: black;
+  font-size: 1em;
+  width: 95vw;
+}
+
+th, td {
+ /* text-align: left;*/
+  padding:1vh;
+  font-size:8px; 
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}

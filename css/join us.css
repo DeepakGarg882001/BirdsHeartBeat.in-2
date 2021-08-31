@@ -1,0 +1,29 @@
+
+.q1{
+
+	width:97vw ;
+	height:13vh ;
+	 background: #0000cd;
+	 color: white;
+	 font-size: 2.5em;
+	 margin-top: 0;
+	 top: 0;
+	 position: sticky;
+}
+
+
+
+
+.q1-1{
+float: left;
+width:20vw ;
+height:13vh ;
+margin: auto;
+color: white;
+}
+
+.q2{
+
+	margin: auto;
+	margin-top: 3%;
+}
